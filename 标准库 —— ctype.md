@@ -2,4 +2,12 @@
 2. isalpha(c)
 3. iscntrl(c)
 4. isdigit(c)
-5. 
+5. isgraph(c)
+6. islower(c)
+7. isprint(c)
+8. ispunct(c)
+9. isspace(c)
+10. isupper(c)
+11. isxdigit(c)
+12. tolower(c)
+13. to
