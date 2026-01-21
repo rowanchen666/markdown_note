@@ -1,7 +1,7 @@
 1. `isalnum(c)`：函数isalpha（c）或isdigit（c）为真，即是否为字母或十进制数字
 2. `isalpha(c)`：函数isupper（c）或islower（c） 真，即是否为字母
 3. `iscntrl(c)`：c为控制字符
-4. `isdigit(c)`：c为十进制数字
+4. `isdigit(c)`：c为十进制数字（这里数字是说字符`'0'`到字符`'9'`，而不是数字0到9）
 5. `isgraph(c)`：c是除空格外的可打印字符
 6. `islower(c)`：c是小写字母
 7. `isprint(c)`：c是包括空格的可打印字符
