@@ -10,4 +10,4 @@
 10. isupper(c)
 11. isxdigit(c)
 12. tolower(c)
-13. to
+13. toupper(c)
