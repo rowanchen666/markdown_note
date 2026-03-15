@@ -1,0 +1,32 @@
+{
+  "obsidian-git:add-to-gitignore": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "obsidian-git:commit-smart": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
+}
