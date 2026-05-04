@@ -64,7 +64,7 @@ int main(){
             case 3:
                 if (last.y != 0 && maze[last.x][last.y - 1] == 0) {
                     cur.x = last.x;
-                    cur.y = last.y + 1;
+                    cur.y = last.y - 1;
                     last.dir = 4;
                     break;
                 }
